@@ -1,0 +1,7 @@
+{
+  "operator": "OPERATOR_NAME",
+  "input_shape": [1024, 1024],
+  "dtype": "float32",
+  "warmup": 10,
+  "iterations": 100
+}
